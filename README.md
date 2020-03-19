@@ -1,6 +1,12 @@
 # Windows Personalization Registry Tool (WPRT)
 
-A windows application that allows you to personalize windows with settings that only exists in the Windows registry. 
+![](https://i.imgur.com/qCM65iW.png)
+
+A windows application that allows you to personalize windows with settings that only exists in registry. 
+
+## Features (more features coming someday)
+
+* Edit the Windows selection box color and background color of a selected text.
 
 ## Installation
 
