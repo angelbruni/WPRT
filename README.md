@@ -1,6 +1,6 @@
 # Windows Personalization Registry Tool (WPRT)
 
-A windows application that allows you to personalize windows with settings that only exists in registry. 
+A windows application that allows you to personalize windows with settings that only exists in the Windows registry. 
 
 ## Installation
 
