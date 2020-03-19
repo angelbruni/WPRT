@@ -2,7 +2,7 @@
 
 ![](https://i.imgur.com/qCM65iW.png)
 
-WPRT is a C# windows application that allows you to personalize windows with settings that only exists in registry. 
+WPRT is a C# windows forms application that allows you to personalize windows with settings that only exists in registry. 
 
 ## Features (more features coming someday)
 
