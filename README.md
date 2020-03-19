@@ -21,6 +21,6 @@ It's GUI is very user-friendly, simply looking at it will make you understand ho
 
 Pull requests are welcome, but for now, there's no sourcecode available, I will release it soon.
 
-## Licence
+## License
 
-WPRT is licensed under the [MIT licence](https://opensource.org/licenses/MIT). Please see [the license file](LICENSE.md) for more information. [tl;dr](https://tldrlegal.com/license/mit-license) you can do whatever you want as long as you include the original copyright and license notice in any copy of the software/source.
+WPRT is licensed under the [MIT license](https://opensource.org/licenses/MIT). Please see [the license file](LICENSE.md) for more information. [tl;dr](https://tldrlegal.com/license/mit-license) you can do whatever you want as long as you include the original copyright and license notice in any copy of the software/source.
