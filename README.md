@@ -6,7 +6,10 @@ WPRT is a C# windows forms application that allows you to personalize windows wi
 
 ## Features (more features coming someday)
 
-* Edit the Windows selection box color and background color of a selected text.
+* Translucent Selection Box and Selected Text: Edit colors of selection box background color, selection box border, highlighted text background color and highlighted text color;
+* Taskbar: OLED Transparency and Acrylic Blur;
+* Login screen: Acrylic Blur and Lockscreen;
+* Window: Active Window Border, Active Window Titlebar and Inactive Window Titlebar colors.
 
 ## Installation
 
